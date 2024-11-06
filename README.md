@@ -1,3 +1,5 @@
+Paswword Generator
+
 https://dgenutis-passgenerator.netlify.app/
 
 # React + Vite, TailwindCSS
